@@ -1,0 +1,54 @@
+.boxContent {
+  display: block;
+  text-align: center;
+}
+
+.boxContent h5 {
+  color: rgb(128, 128, 128);
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.boxContent p {
+  color: #01b2ee;
+  font-size: 14px;
+}
+
+.boxContent button {
+  width: 142px;
+  height: 36px;
+  background-color: #ffff;
+  border-radius: 5px;
+  vertical-align: middle;
+  border: 2px solid #01b2ee;
+  font-size: 13px;
+  color: #1eb3ef;
+  font-weight: 700;
+  margin-bottom: 65px;
+}
+
+.boxContent button:hover {
+  cursor: pointer;
+}
+.des2 {
+  display: flex;
+  justify-content: center;
+  height: 62%;
+  margin: -1px;
+}
+
+.div-white {
+  height: 359px;
+  position:absolute;
+  width: 20%;
+}
+.div-white-2 {
+  height: 364px;
+  position:absolute;
+  width: 19%;
+
+}
+
+.width{
+  margin-right: -20px !important;
+}

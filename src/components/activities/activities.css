@@ -1,0 +1,21 @@
+.card:hover .btn{
+visibility:hidden;
+}
+
+.btn{
+  display: flex;
+  position: absolute;
+  background-color: #01b2ee;
+  color: #fff;
+  line-height: 35px;
+  height: 38px;
+  font-size: 14px;
+  align-items: center;
+  top: 180px;
+}
+.des4{
+  display: flex;
+  justify-content: center;
+  height: 66%;
+  margin: -1px;
+}
